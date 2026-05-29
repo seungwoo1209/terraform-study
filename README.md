@@ -5,6 +5,6 @@
 
 ## 공부 내역
 
-| Day | 날짜 | 정리 | 주요 내용 |
-|-----|------|------|-----------|
-| 1 | 2026-05-30 | [📄](study-reports/2026-05-30.md) | terraform.tf 설정, provider, resource, data, state 기본 |
+| Day | 날짜 | 정리 | 코드 | 주요 내용 |
+|-----|------|------|------|-----------|
+| 1 | 2026-05-30 | [📄](study-reports/2026-05-30.md) | [💻](codes/day01) | terraform.tf 설정, provider, resource, data, state 기본 |
